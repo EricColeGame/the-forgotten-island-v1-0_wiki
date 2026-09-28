@@ -19,19 +19,15 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "My Seafood Stand Wiki",
-  shortName: "My Seafood Stand",
-  logoText: "SS",
-  tagline: "Complete Guides, Codes, Recipes & Tier Lists",
-  description: "Your ultimate guide to My Seafood Stand on Roblox! Explore active working codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top").hostname.replace(/^www\./, "")}`,
-  gameUrl: "https://www.roblox.com/games/my-seafood-stand",
-  heroVideoId: "M8DvcwoFRrk", // Roblox My Seafood Stand codes & gameplay video
-  social: {
-    discord: "https://discord.gg/roblox",
-    youtube: "https://www.youtube.com/@roblox",
-  },
+  name: "The Forgotten Island V1 0 Wiki",
+  shortName: "Forgotten Island",
+  logoText: "TFI",
+  tagline: "Guides, Walkthroughs, Survival Tips & Secrets",
+  description: "Your complete fan wiki for The Forgotten Island V1 0 on Steam - gameplay guides, walkthroughs, survival tips, items, maps, and beginner strategies.",
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://the-forgotten-island-v1-0.wiki",
+  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://the-forgotten-island-v1-0.wiki").hostname.replace(/^www\./, "")}`,
+  gameUrl: "https://store.steampowered.com/app/1405670/The_Forgotten_Island__v10/",
+  heroVideoId: "P-Dst7m-rqw", // The Forgotten Island - v1.0 gameplay showcase (PC Steam)
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",
 };
