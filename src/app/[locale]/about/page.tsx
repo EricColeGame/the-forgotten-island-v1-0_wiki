@@ -3,8 +3,8 @@ import { LegalPage } from "@/components/legal-page";
 export default function AboutPage() {
   return (
     <LegalPage title="About">
-      <p>VV Ultimatum Wiki is an independent fan-built guide hub covering progression routes, races, bosses, builds, and essential game knowledge for new and veteran players alike.</p>
-      <p>The layout, navigation, article cards, and detail format are reproduced from the target VV: ULTIMATUM wiki pages requested for this implementation.</p>
+      <p>The Forgotten Island V1 0 Wiki is an independent fan-built guide hub covering island exploration, survival, combat, talents, items, maps, and essential game knowledge for new and veteran players alike.</p>
+      <p>Our goal is to help players find their way around the forgotten island with clear, up-to-date guides, walkthroughs, and beginner strategies.</p>
     </LegalPage>
   );
 }
