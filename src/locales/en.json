@@ -39,22 +39,22 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Open the ancient scroll, drink water, eat food, and learn the two core inputs: hold E to use wells, food, and beds, and hold F to duel a villager."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Turn-Based Combat",
+          "description": "Win duels with the light, heavy, defend, and relax loop, and never start a fight while your stamina bar is empty."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Farming & Fishing",
+          "description": "Turn crops, fish, and surplus goods into merchant coin, then reinvest that coin into sustain upgrades before raw damage."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in The Forgotten Island V1 0."
+          "title": "Talent Builds",
+          "description": "Commit your talent points to Strength, Agility, or Intelligence early, and let that build decide what you farm, fish, and sell."
         }
       ]
     },
@@ -62,237 +62,319 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Full Walkthrough",
+        "Talent Builds",
+        "Combat Rules"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Your first hour on the island: settings, controls, survival priorities, and the mistakes to avoid.",
+          "href": "/guide/the-forgotten-island-v1-0-beginner-guide"
         },
         {
           "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
-        },
-        {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "title": "Full Walkthrough",
+          "description": "The complete loop in order: survival vitals, turn-based combat, talents, quests, and the money economy.",
+          "href": "/guide/the-forgotten-island-v1-0-full-walkthrough"
         },
         {
           "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
-        },
-        {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "title": "Turn-Based Combat Rules",
+          "description": "Light, heavy, defend, and relax explained, plus why stamina is your real health bar.",
+          "href": "/mechanics/the-forgotten-island-v1-0-survival"
         },
         {
           "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
+          "title": "Talent Builds",
+          "description": "Strength, Agility, or Intelligence compare the three talent paths and pick your first stat.",
+          "href": "/guide/the-forgotten-island-v1-0-tips"
+        },
+        {
+          "badge": "New",
+          "title": "Farming, Fishing & Selling",
+          "description": "Water, food, crops, fish, and merchant trading the low-risk income loop behind every upgrade.",
+          "href": "/mechanics/the-forgotten-island-v1-0-resources"
         },
         {
           "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "title": "Weapons & Gear",
+          "description": "Melee, ranged, and improvised roles with loot routes and durability strategy for long runs.",
+          "href": "/items/the-forgotten-island-v1-0-weapons"
         },
         {
           "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
+          "title": "Island Map & Areas",
+          "description": "Village hub, resource ring, and objective tiers mapped into a practical first-hour route.",
+          "href": "/maps/the-forgotten-island-v1-0-island-map"
+        },
+        {
+          "badge": "Popular",
+          "title": "Controls & Keybinds",
+          "description": "The full control scheme, the left-shift run rule, and how to remap and troubleshoot inputs.",
+          "href": "/controls/the-forgotten-island-v1-0-controls"
         },
         {
           "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "title": "Santa Mission Help",
+          "description": "How the mission chain gates the ending and where players most often get stuck.",
+          "href": "/guide/the-forgotten-island-v1-0-ending"
         }
       ]
     },
     "aboutGame": {
       "title": "What is The Forgotten Island V1 0?",
       "paragraphs": [
-        "The Forgotten Island V1 0 is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "The Forgotten Island V1 0 is a compact, free-to-play open-world RPG from developer Thomas Chia and publisher TumbleweedGameDesign. You open an ancient scroll, wake up on a low-poly medieval island full of merchants and villagers, and learn that your only real objective is finding a way back to the real world.",
+        "Progression runs on turn-based duels and talent points rather than reflexes. Every level is cleared by finishing the tasks you are given, while farming, fishing, eating, and drinking keep vitality and stamina high enough to survive the next fight. It is short, objective-driven, and runs smoothly on modest hardware."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "Thomas Chia"
+        },
+        {
+          "label": "Publisher",
+          "value": "TumbleweedGameDesign"
         },
         {
           "label": "Platform",
-          "value": "Roblox"
+          "value": "PC (Steam)"
         },
         {
-          "label": "Genre",
-          "value": "Fighting RPG"
+          "label": "Release Date",
+          "value": "September 1, 2020"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Price",
+          "value": "Free to Play"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Premium Pack",
+          "value": "$1.99"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Combat",
+          "value": "Turn-Based"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Setting",
+          "value": "Medieval Island"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore The Forgotten Island V1 0 Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Everything the island asks of you: first-hour survival, the full walkthrough, talent builds, turn-based combat, farming and fishing income, gear, patch history, and gameplay videos.",
       "modules": [
         {
           "order": 1,
-          "name": "The Forgotten Island V1 0 Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/the-forgotten-island-v1-0-codes",
-          "displayType": "code-box",
+          "name": "The Forgotten Island V1 0 Beginner Guide",
+          "description": "A beginner-friendly guide covering basic controls, survival priorities, exploration tips, and the first steps players need after arriving on the island. It helps new players understand movement, resource management, NPC interactions, and early progression.",
+          "href": "/guide/the-forgotten-island-v1-0-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Adjust your settings first, then learn the two core inputs: hold E beside wells, food, and beds, and hold F beside an NPC to start a duel."
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Drink water and eat food until vitality and stamina are full before you walk away from the starting village."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Explore the opening area completely and read every note and dialogue line, because objectives can update without a prompt."
+            },
+            {
+              "label": "4",
+              "detail": "Follow the developer's Santa mission walkthrough on the Steam community hub when you hit the first real difficulty spike."
+            },
+            {
+              "label": "5",
+              "detail": "Save manually in a separate slot before committing to a long expedition so a bad fight never costs you an hour."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/the-forgotten-island-v1-0-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "The Forgotten Island V1 0 Walkthrough",
+          "description": "A complete walkthrough section covering missions, exploration routes, important objectives, and progression checkpoints. This module can organize official walkthrough videos and gameplay solutions into searchable guides.",
+          "href": "/guide/the-forgotten-island-v1-0-full-walkthrough",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "1",
+              "detail": "Survive the first hour by stocking water and food, then fight only when your stamina bar is full."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "2",
+              "detail": "Learn the combat loop: light and heavy attacks drain stamina, defend is free, and relax restores stamina but leaves you open."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "3",
+              "detail": "Spend talent points into one primary attribute so your character scales instead of stalling at every tier."
+            },
+            {
+              "label": "4",
+              "detail": "Fund the run through farming, fishing, and merchant trading before pushing into tougher map tiers."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/the-forgotten-island-v1-0-tier-list",
-          "displayType": "tier-grid",
+          "name": "The Forgotten Island V1 0 Talent Build Guide",
+          "description": "A talent system guide explaining Strength, Agility, Intelligence attributes and how different stat choices affect combat performance. Players can compare recommended builds for exploration and fighting.",
+          "href": "/guide/the-forgotten-island-v1-0-tips",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "STR",
+              "detail": "1 point = +120 Vitality, +50 Stamina the safest first build for new players"
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "AGI",
+              "detail": "1 point = +5 Attack, +2 Armor trades durability for faster kills"
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "INT",
+              "detail": "1 point = +20 Crit, +20 Avoid, +40 Lucky high-risk, high-reward scaling"
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "PLAN",
+              "detail": "Commit to one primary attribute in your first hour and buy gear that matches it"
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/the-forgotten-island-v1-0-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "The Forgotten Island V1 0 Combat Guide",
+          "description": "A combat reference covering light attacks, heavy attacks, defense, stamina management, and enemy encounters. It helps players learn the battle system and improve survival efficiency.",
+          "href": "/mechanics/the-forgotten-island-v1-0-survival",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Light",
+              "detail": "Light attacks chip enemy vitality for a small stamina cost, which stretches a long fight in your favour"
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Heavy",
+              "detail": "Heavy attacks hit harder but drain more stamina, so save them for finishing blows"
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Defend",
+              "detail": "Defending blocks the incoming attack and costs no stamina at all"
+            },
+            {
+              "label": "Relax",
+              "detail": "Relaxing restores stamina, but you cannot defend while you recover"
+            },
+            {
+              "label": "Stamina",
+              "detail": "Attacking costs stamina and an enemy hit stops your recovery, so never duel on an empty bar"
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/the-forgotten-island-v1-0-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "The Forgotten Island V1 0 Farming Fishing Guide",
+          "description": "A resource guide focused on farming, fishing, food, drinking, and other island activities. It explains how players can use non-combat systems to support exploration and progression.",
+          "href": "/mechanics/the-forgotten-island-v1-0-resources",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Water",
+              "detail": "Fresh water refills hydration for free, and hydration gates how far you can explore"
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Food",
+              "detail": "Foraging, crops, and cooked meals restore the stamina that combat drains"
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Fishing",
+              "detail": "Fishing spots are low-risk income that also covers your food supply between quests"
+            },
+            {
+              "label": "Farming",
+              "detail": "One continuously farmed plot is the cheapest steady income on the island"
+            },
+            {
+              "label": "Selling",
+              "detail": "Merchants convert surplus crops and fish into the coin that funds your upgrades"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/the-forgotten-island-v1-0-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "The Forgotten Island V1 0 Items And Equipment Guide",
+          "description": "A searchable equipment database covering weapons, armor, merchants, and upgrade-related information. This section helps players understand how to obtain stronger gear during progression.",
+          "href": "/items/the-forgotten-island-v1-0-weapons",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "S",
+              "detail": "Reliable melee weapon guarantees you are never defenseless in your first hour"
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "A",
+              "detail": "Repair access and spare parts keep your only good tool from breaking"
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "B",
+              "detail": "One ranged weapon plus ammo solves distant threats and open ground"
+            },
+            {
+              "label": "C",
+              "detail": "Situational tools only worth buying once your baseline loadout is stable"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "The Forgotten Island V1 0 Updates And Patch Notes",
+          "description": "A version history section tracking gameplay updates, balance changes, bug fixes, and new features added after release. It provides players with a timeline of changes from official announcements.",
+          "href": "/community/the-forgotten-island-v1-0-release-date",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "v1.5",
+              "detail": "The Steam listing still reads v1.0, but the developer's notes state the content was updated to version 1.5"
+            },
+            {
+              "label": "Fixes",
+              "detail": "Patch history tracks bug fixes posted through the official Steam news and community threads"
+            },
+            {
+              "label": "Balance",
+              "detail": "Combat and survival tuning arrives through the same announcement threads as new content"
+            },
+            {
+              "label": "News",
+              "detail": "Check the Steam news feed to confirm which build you are actually playing"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "The Forgotten Island V1 0 Gameplay Videos",
+          "description": "A video collection featuring official walkthroughs and gameplay demonstrations. It helps users quickly learn mechanics and discover different ways to complete island objectives.",
+          "href": "/community/the-forgotten-island-v1-0-steam",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Steam",
+              "detail": "The Steam store page hosts the official trailer, screenshots, and store media"
+            },
+            {
+              "label": "Threads",
+              "detail": "The developer's walkthrough threads on the community hub read like mission videos in text form"
+            },
+            {
+              "label": "Replays",
+              "detail": "Watch a full run before attempting the Santa mission to see the objective order in action"
             }
           ]
         }
@@ -304,23 +386,27 @@
       "items": [
         {
           "question": "What is The Forgotten Island V1 0?",
-          "answer": "The Forgotten Island V1 0 is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "The Forgotten Island V1 0 is a free-to-play open-world RPG on Steam from developer Thomas Chia and publisher TumbleweedGameDesign. You open an ancient scroll, wake on a low-poly medieval island, and work through tasks, duels, and merchant trading until you find a way back to the real world."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "How do you survive your first hour in The Forgotten Island V1 0?",
+          "answer": "Drink water and eat food until vitality and stamina are full, learn that holding E uses wells, food, and beds, and never start a duel with an empty stamina bar. The game hands you very little, so treat every trip away from the village as a costed expedition."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "What do talent points do in The Forgotten Island V1 0?",
+          "answer": "Each talent point gives fixed bonuses: 1 Strength adds +120 Vitality and +50 Stamina, 1 Agility adds +5 Attack and +2 Armor, and 1 Intelligence adds +20 Crit, +20 Avoid, and +40 Lucky. Commit to one primary attribute early so your build actually scales."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "How do you make money in The Forgotten Island V1 0?",
+          "answer": "Farming, fishing, and merchant trading are the low-risk income loop. Keep one plot growing, fish while your crops mature, and sell surplus goods to merchants, then reinvest the coin into sustain upgrades before raw damage."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Where is the Santa mission in The Forgotten Island V1 0?",
+          "answer": "The Santa mission is the centerpiece of the developer's first walkthrough thread on the Steam community hub, posted under the name Thomas in September 2020. It is widely reported as the first real difficulty spike and the most commonly missed requirement for the finale."
+        },
+        {
+          "question": "How do you reach the ending in The Forgotten Island V1 0?",
+          "answer": "The ending in The Forgotten Island V1 0 is not a selectable level. It unlocks once the game registers that every required story mission and objective is complete, so clear your mission log, confirm each objective registered, and save in a separate slot before you commit to the finale."
         }
       ]
     },
