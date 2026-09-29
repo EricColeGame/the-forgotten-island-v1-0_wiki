@@ -6,7 +6,14 @@
     "description": "Your complete fan wiki for The Forgotten Island V1 0 on Steam - gameplay guides, walkthroughs, survival tips, items, maps, and beginner strategies.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
-  "nav": {},
+  "nav": {
+    "guide": "Guide",
+    "mechanics": "Mechanics",
+    "controls": "Controls",
+    "items": "Items",
+    "maps": "Maps",
+    "community": "Community"
+  },
   "home": {
     "meta": {
       "title": "The Forgotten Island V1 0 Wiki - Guides & Secrets",
@@ -417,7 +424,30 @@
       "secondary": "Play on Steam"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "The Forgotten Island V1 0 Guide & Walkthroughs",
+    "overviewDescription": "Beginner steps, a full walkthrough, mission help, and practical tips for your first hours on The Forgotten Island V1 0."
+  },
+  "mechanics": {
+    "overviewTitle": "The Forgotten Island V1 0 Mechanics & Survival",
+    "overviewDescription": "Survival vitals, turn-based combat, crafting, building, quests, and the farming and fishing economy explained for The Forgotten Island V1 0."
+  },
+  "controls": {
+    "overviewTitle": "The Forgotten Island V1 0 Controls & Keybinds",
+    "overviewDescription": "The PC control scheme, keyboard bindings, and settings advice you need to play The Forgotten Island V1 0 comfortably."
+  },
+  "items": {
+    "overviewTitle": "The Forgotten Island V1 0 Items & Equipment",
+    "overviewDescription": "Weapons, tools, materials, and inventory management for The Forgotten Island V1 0, including how to upgrade your gear."
+  },
+  "maps": {
+    "overviewTitle": "The Forgotten Island V1 0 Maps & Locations",
+    "overviewDescription": "Island maps, key locations, hidden areas, and secrets across The Forgotten Island V1 0."
+  },
+  "community": {
+    "overviewTitle": "The Forgotten Island V1 0 Community & Release Info",
+    "overviewDescription": "Steam news, release date details, Reddit and Discord communities, and patch talk for The Forgotten Island V1 0."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -448,10 +478,10 @@
     "officialYoutube": "YouTube Gameplay",
     "vvBuilder": "Talent Planner",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
     "privacyPolicy": "Privacy Policy",
-    "termsOfService": "Terms of Service"
+    "termsOfService": "Terms of Service",
+    "walkthroughGuide": "Full Walkthrough",
+    "mechanicsGuides": "Mechanics & Survival",
+    "mapsGuides": "Maps & Areas"
   }
 }

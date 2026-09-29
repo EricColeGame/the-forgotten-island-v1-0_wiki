@@ -1,0 +1,132 @@
+export const metadata = {
+  title: "Atalhos de The Forgotten Island v1.0: Guia Completo de Controles, Teclas de Corrida e Configurações do Mouse",
+  description: "Guia completo dos atalhos de The Forgotten Island v1.0 — correr com o Shift Esquerdo, ajustes de sensibilidade do mouse, controles de inventário e dicas de solução de problemas.",
+  category: "controls",
+  date: "2026-09-29",
+}
+
+Você dá à costa em uma praia desconhecida, sem mapa, sem tutorial e sem ideia de qual tecla faz o personagem correr. É por isso que uma referência clara dos **atalhos de The Forgotten Island v1.0** importa mais do que parece — os primeiros dez minutos definem se você vai construir um abrigo ou morrer de fome no escuro. Este guia reúne o que está publicamente documentado sobre os **atalhos de The Forgotten Island v1.0** — movimentação, corrida, sensibilidade do mouse e uso de itens — em um único lugar que você pode deixar aberto enquanto joga.
+
+Boa parte dos detalhes abaixo vem das próprias respostas do desenvolvedor no fórum de discussões do jogo na Steam, onde os jogadores relataram problemas de controle e o desenvolvedor confirmou correções. Quando algo não está documentado publicamente, este guia diz isso em vez de adivinhar. Você pode sempre conferir a build atual na [página da loja de The Forgotten Island v1.0 na Steam](https://store.steampowered.com/app/1405670/) ou no [tópico fixado de feedback dos jogadores do desenvolvedor](https://steamcommunity.com/app/1405670/discussions/0/2949251578297545714/).
+
+## Por Que os Controles São a Primeira Coisa a Aprender
+
+Jogos de sobrevivência punem a hesitação. Se você ainda está procurando a tecla de corrida enquanto um predador se aproxima, a luta já acabou. Os controles em um jogo de sobrevivência em ilha em primeira pessoa não são só conveniência — eles são a diferença entre chegar a um nó de recursos antes do anoitecer e perder uma run inteira.
+
+A parte complicada é que os **atalhos de The Forgotten Island v1.0** não estavam totalmente documentados quando a versão foi lançada. Os jogadores aprenderam o layout na tentativa e erro, e depois relataram as arestas soltas ao desenvolvedor. Isso significa que alguns atalhos são oficialmente confirmados, outros seguem as convenções padrão de PC e alguns têm peculiaridades conhecidas com as quais você deve contar.
+
+## Os Atalhos de The Forgotten Island v1.0 em Resumo
+
+Use a tabela abaixo como sua referência inicial. A coluna "status" indica o quanto você deve confiar em cada entrada, para que você não trate uma suposição como fato.
+
+| Ação | Atalho típico de PC | Status |
+|---|---|---|
+| Mover para frente / trás / lateralmente | W, A, S, D | Padrão do gênero — confirme em Opções |
+| Olhar e mirar | Mouse | Padrão do gênero — confirme em Opções |
+| Correr | Shift Esquerdo | Confirmado pelo desenvolvedor |
+| Correr com o Shift Direito | Não atribuído | Relatado por jogadores; reconhecido pelo desenvolvedor |
+| Usar comida ou uma poção | Clique duplo no item dentro da mochila | Confirmado pelo desenvolvedor |
+| Abrir mochila / inventário | Verifique o menu de opções do jogo | Não documentado publicamente |
+| Pausar / menu | Esc | Padrão do gênero — confirme em Opções |
+
+### Como Ler a Coluna de Status
+
+- **Confirmado pelo desenvolvedor** — o desenvolvedor declarou isso publicamente no fórum de discussões do jogo.
+- **Padrão do gênero** — corresponde ao layout quase universal dos jogos de sobrevivência de PC em primeira pessoa, mas não foi documentado oficialmente, então confirme no seu próprio menu de configurações.
+- **Relatado** — os jogadores levantaram a questão e o desenvolvedor respondeu, então trate isso como uma limitação conhecida e não como um mistério.
+
+A conclusão prática: abra o menu de opções antes de começar uma run a sério e anote qualquer coisa que difira da tabela acima.
+
+## Correr em The Forgotten Island v1.0: A Regra do Shift Esquerdo
+
+A corrida é a reclamação de controle mais comum nesta build. Segundo relatos da comunidade, segurar o **Shift Esquerdo** faz o personagem correr, enquanto o **Shift Direito** não faz absolutamente nada. Essa assimetria é incomum o suficiente para que os jogadores achassem que o teclado estava quebrado.
+
+O desenvolvedor reconheceu o problema diretamente e disse que ele seria corrigido em uma versão posterior. Até você estar em uma build em que as duas teclas Shift funcionam, treine a mão para alcançar a da esquerda.
+
+| Situação | O que acontece | O que fazer |
+|---|---|---|
+| Segurar o Shift Esquerdo | O personagem corre | Use isso como padrão |
+| Segurar o Shift Direito | Nenhuma corrida | Mude para o Shift Esquerdo |
+| Segurar Shift e nada acontece | O método de entrada do teclado pode não estar em inglês | Mude o método de entrada para inglês e tente de novo |
+| A corrida esgota rápido demais | As paradas e arrancadas ficam travadas | Combine corridas curtas com caminhada para manter a câmera estável |
+
+Vale repetir essa terceira linha, porque é fácil passá-la despercebida. O desenvolvedor observou que alguns jogadores não conseguiam correr porque o método de entrada do sistema havia sido trocado para um layout que não era o inglês, o que interceptava o comando de tecla antes que o jogo o detectasse. Se o Shift parecer morto, verifique a barra de idiomas antes de abrir um relatório de bug.
+
+## Sensibilidade do Mouse e Controle de Câmera
+
+A segunda grande reclamação na experiência inicial dos jogadores foi a instabilidade da câmera. Os jogadores relataram que a sensibilidade padrão do mouse era alta demais para manter uma linha estável ao correr ou caminhar, fazendo a visão girar de forma imprevisível.
+
+O desenvolvedor respondeu que uma opção de sensibilidade do mouse seria adicionada em uma versão posterior. Se você está jogando uma build que ainda não tem o slider, pode compensar no nível do sistema operacional ou do driver do mouse.
+
+| Sintoma | Causa provável | Solução |
+|---|---|---|
+| A câmera dispara quando você mexe de leve o mouse | Sensibilidade ajustada alta demais | Reduza o slider do jogo ou diminua o DPI do mouse |
+| A mira se desloca depois que você para de se mover | Aceleração do mouse ativada | Desative "Melhorar precisão do ponteiro" nas configurações de mouse do Windows |
+| Ajustes finos parecem impossíveis | DPI muito alto sem escala dentro do jogo | Reduza o DPI no software do mouse e teste novamente no jogo |
+| A sensibilidade parece diferente a cada sessão | Perfis diferentes carregando por jogo | Salve um perfil dedicado para este título |
+
+### Uma Rotina Rápida de Ajuste de Sensibilidade
+
+1. Fique em um lugar seguro, longe de inimigos, com o horizonte livre.
+2. Faça um movimento lateral com a câmera, para a esquerda e para a direita, em ritmo normal de caminhada.
+3. Ajuste a sensibilidade até que uma passada completa do mousepad gire você cerca de 180 graus.
+4. Corra em linha reta e confirme que o horizonte permanece nivelado.
+5. Salve o perfil e evite alterá-lo no meio da run.
+
+Essa rotina leva cerca de três minutos e resolve a maioria das reclamações de "câmera instável" que aparecem nos relatos da comunidade.
+
+## Usando Comida e Poções: Os Controles de Inventário Que Ninguém Explica
+
+Os consumíveis confundem muitos jogadores novos porque o jogo não usa uma barra de atalhos. Segundo o desenvolvedor, o fluxo é direto quando você o conhece: compre o item para a mochila primeiro e depois dê um clique duplo nele dentro da mochila para consumi-lo.
+
+| Passo | Ação | Erro comum |
+|---|---|---|
+| 1 | Compre a poção ou a comida para que ela vá para a mochila | Tentar usá-la na tela da loja |
+| 2 | Abra a mochila | Presumir que existe um espaço na barra de atalhos |
+| 3 | Dê um clique duplo no item | Dar um clique simples e esperar que funcione |
+| 4 | Confirme que o efeito foi aplicado | Clicar repetidamente e desperdiçar um segundo item |
+
+A exigência do clique duplo é a parte que pega as pessoas de surpresa. Se uma poção parecer não fazer nada, verifique se você realmente a comprou para o inventário antes de tentar de novo.
+
+## É Possível Remapear os Atalhos de The Forgotten Island v1.0?
+
+Aqui é onde as expectativas precisam ser administradas. A build é pequena e o esquema de controle é mínimo, então o menu de opções é o lugar a procurar, e não uma tela completa de remapeamento.
+
+| Controle | Ajustável? | Observações |
+|---|---|---|
+| Sensibilidade do mouse | Adicionada após o feedback dos jogadores | Verifique o menu de opções da sua build |
+| Tecla de corrida | Não no comportamento original da v1.0 | Somente Shift Esquerdo na época dos relatos |
+| Teclas de movimentação | Verifique o menu de opções | Não documentado publicamente |
+| Uso de itens | Não — é uma ação de clique duplo | Consistente em toda a build |
+
+Se a sua build não oferecer nenhum tipo de remapeamento, a solução alternativa é remapear as teclas no nível do teclado ou do driver do mouse e manter um perfil dedicado para o jogo. Só lembre que qualquer aviso na tela continuará mostrando os atalhos originais, então mantenha este guia à mão até que a memória muscular se firme.
+
+## Lista de Verificação de Problemas dos Atalhos de The Forgotten Island v1.0
+
+Passe por esta lista antes de presumir que o jogo está quebrado. A maioria destes itens vem direto da experiência dos jogadores e das respostas do desenvolvedor.
+
+| Problema | Primeira coisa a verificar | Segunda coisa a verificar |
+|---|---|---|
+| Não consigo correr | Você está segurando o Shift Esquerdo, e não o Direito? | O método de entrada do seu teclado está definido como inglês? |
+| Câmera agitada demais | Reduza a sensibilidade dentro do jogo | Desative a aceleração do mouse no sistema operacional |
+| A poção não faz efeito | Você a comprou para a mochila primeiro? | Você deu clique duplo em vez de clique simples? |
+| As teclas parecem não responder | Clique na janela do jogo para colocá-la em foco | Desconecte dispositivos de entrada extras |
+| Os atalhos parecem errados | Abra o menu de opções e confira de novo | Compare com a tabela acima |
+
+## Perguntas Frequentes
+
+**Posso mudar os atalhos de The Forgotten Island v1.0 no menu de opções?**
+A sensibilidade do mouse é a configuração que foi adicionada após o feedback dos jogadores. Os outros atalhos não estão documentados publicamente como remapeáveis, então verifique primeiro o menu de opções da sua própria build e use um remapeamento no nível do teclado se não houver nada disponível no jogo.
+
+**Por que o Shift Direito não faz meu personagem correr?**
+Os relatos da comunidade dizem que apenas o Shift Esquerdo aciona a corrida nesta build. O desenvolvedor reconheceu a limitação e disse que ela seria resolvida em uma versão posterior, então use o Shift Esquerdo por enquanto.
+
+**Por que o Shift não faz nada de jeito nenhum?**
+O desenvolvedor observou que um método de entrada de teclado que não seja o inglês pode bloquear o comando de tecla. Mude o método de entrada do sistema para inglês e tente de novo antes de presumir que o atalho está quebrado.
+
+**Como faço para comer ou beber uma poção?**
+Compre o item para que ele vá para a sua mochila, abra a mochila e dê um clique duplo no item para consumi-lo. Um clique simples não vai funcionar.
+
+## Considerações Finais
+
+Os controles em uma build de sobrevivência com arestas soltas raramente são perfeitos, e os **atalhos de The Forgotten Island v1.0** não são exceção. A boa notícia é que quase toda reclamação remete a uma de três coisas: a regra da corrida com o Shift Esquerdo, um método de entrada definido no idioma errado ou uma sensibilidade de câmera que precisa ser reduzida. Resolva esses três pontos e o jogo de repente parece bem menos hostil — o que te deixa livre para se preocupar com a ilha em vez do teclado.
