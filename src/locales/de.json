@@ -1,1 +1,490 @@
-{}
+{
+  "site": {
+    "name": "The Forgotten Island V1 0 Wiki",
+    "shortName": "Vergessene Insel",
+    "tagline": "Guides, Walkthroughs, Survival-Tipps & Geheimnisse",
+    "description": "Dein komplettes Fan-Wiki zu The Forgotten Island V1 0 auf Steam – Gameplay-Guides, Walkthroughs, Survival-Tipps, Items, Karten und Anfängerstrategien.",
+    "legalNotice": "Inoffizielles Fan-Wiki. Von Spielern für Spieler."
+  },
+  "nav": {
+    "guide": "Guide",
+    "mechanics": "Mechaniken",
+    "controls": "Steuerung",
+    "items": "Items",
+    "maps": "Karten",
+    "community": "Community",
+    "home": "Startseite",
+    "menu": "Menü",
+    "toggleTheme": "Design wechseln"
+  },
+  "home": {
+    "meta": {
+      "title": "The Forgotten Island V1 0 Wiki - Guides & Geheimnisse",
+      "description": "Entdecke das The Forgotten Island V1 0 Wiki mit Gameplay-Guides, Erkundungstipps, Survival-Strategien, Geheimnissen, Items und hilfreichen Anfängerinfos."
+    },
+    "hero": {
+      "eyebrow": "Survival-Abenteuer auf einer geheimnisvollen Insel",
+      "title": "The Forgotten Island V1 0 Wiki",
+      "description": "Erkunde The Forgotten Island V1 0 mit kompletten Guides zu Gameplay-Mechaniken, Inselerkundung, Survival-Tipps, Geheimnissen, Items und Anfängerstrategien.",
+      "stats": [
+        "Survival-Guides",
+        "Inselerkundung",
+        "Kampf & Talente",
+        "Anfängertipps"
+      ],
+      "primaryCta": "Anfängerguide",
+      "secondaryCta": "Survival-Tipps",
+      "tertiaryCta": "Inselerkundung",
+      "videoLabel": "Gameplay-Vorschau"
+    },
+    "updates": {
+      "title": "Neueste Updates",
+      "browse": "Alle Guides durchsuchen",
+      "viewAll": "Alle ansehen"
+    },
+    "start": {
+      "eyebrow": "Hier starten",
+      "title": "Deine Reise in The Forgotten Island V1 0",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Anfängerguide",
+          "description": "Öffne die alte Schriftrolle, trinke Wasser, iss etwas und lerne die zwei wichtigsten Eingaben: Halte E, um Brunnen, Essen und Betten zu benutzen, und halte F, um einen Dorfbewohner zum Duell herauszufordern."
+        },
+        {
+          "number": "2",
+          "title": "Rundenbasierter Kampf",
+          "description": "Gewinne Duelle mit der Abfolge aus leichtem Angriff, schwerem Angriff, Verteidigen und Ausruhen, und beginne nie einen Kampf mit leerer Ausdauerleiste."
+        },
+        {
+          "number": "3",
+          "title": "Ackerbau & Angeln",
+          "description": "Verwandle Ernten, Fisch und Überschüsse in Händlermünzen und reinvestiere diese Münzen zuerst in Nachhaltigkeits-Upgrades statt in reinen Schaden."
+        },
+        {
+          "number": "4",
+          "title": "Talent-Builds",
+          "description": "Lege deine Talentpunkte früh auf Stärke, Beweglichkeit oder Intelligenz fest und lass diesen Build entscheiden, was du anbaust, angelst und verkaufst."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Beliebte Seiten",
+      "title": "Gerade im Trend",
+      "quickLinks": [
+        "Anfängerguide",
+        "Kompletter Walkthrough",
+        "Talent-Builds",
+        "Kampfregeln"
+      ],
+      "cards": [
+        {
+          "badge": "Anfänger",
+          "title": "Anfängerguide",
+          "description": "Deine erste Stunde auf der Insel: Einstellungen, Steuerung, Survival-Prioritäten und die Fehler, die du vermeiden solltest.",
+          "href": "/guide/the-forgotten-island-v1-0-beginner-guide"
+        },
+        {
+          "badge": "Aktualisiert",
+          "title": "Kompletter Walkthrough",
+          "description": "Der komplette Ablauf in Reihenfolge: Survival-Werte, rundenbasierter Kampf, Talente, Quests und die Geldwirtschaft.",
+          "href": "/guide/the-forgotten-island-v1-0-full-walkthrough"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Regeln für rundenbasierten Kampf",
+          "description": "Leichter Angriff, schwerer Angriff, Verteidigen und Ausruhen erklärt – und warum Ausdauer deine wahre Lebensleiste ist.",
+          "href": "/mechanics/the-forgotten-island-v1-0-survival"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Talent-Builds",
+          "description": "Stärke, Beweglichkeit oder Intelligenz: Vergleiche die drei Talentpfade und wähle deinen ersten Wert.",
+          "href": "/guide/the-forgotten-island-v1-0-tips"
+        },
+        {
+          "badge": "Neu",
+          "title": "Ackerbau, Angeln & Verkaufen",
+          "description": "Wasser, Essen, Ernten, Fisch und Händlerhandel: der risikoarme Einkommenskreislauf hinter jedem Upgrade.",
+          "href": "/mechanics/the-forgotten-island-v1-0-resources"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Waffen & Ausrüstung",
+          "description": "Nahkampf-, Fernkampf- und improvisierte Rollen mit Loot-Routen und Haltbarkeitsstrategie für lange Runs.",
+          "href": "/items/the-forgotten-island-v1-0-weapons"
+        },
+        {
+          "badge": "Neu",
+          "title": "Inselkarte & Gebiete",
+          "description": "Dorfzentrum, Ressourcenring und Zielstufen als praktische Route für die erste Stunde.",
+          "href": "/maps/the-forgotten-island-v1-0-island-map"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Steuerung & Tastenbelegung",
+          "description": "Das komplette Steuerungsschema, die Links-Shift-Rennregel und wie du Eingaben neu belegst und Probleme behebst.",
+          "href": "/controls/the-forgotten-island-v1-0-controls"
+        },
+        {
+          "badge": "Neu",
+          "title": "Hilfe zur Santa-Mission",
+          "description": "Wie die Missionskette das Ende bestimmt und wo Spieler am häufigsten hängen bleiben.",
+          "href": "/guide/the-forgotten-island-v1-0-ending"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Was ist The Forgotten Island V1 0?",
+      "paragraphs": [
+        "The Forgotten Island V1 0 ist ein kompaktes Free-to-Play-Open-World-RPG vom Entwickler Thomas Chia und Publisher TumbleweedGameDesign. Du öffnest eine alte Schriftrolle, erwachst auf einer mittelalterlichen Low-Poly-Insel voller Händler und Dorfbewohner und erfährst, dass dein einziges echtes Ziel darin besteht, einen Weg zurück in die reale Welt zu finden.",
+        "Der Fortschritt läuft über rundenbasierte Duelle und Talentpunkte statt über Reflexe. Jede Stufe wird abgeschlossen, indem du die gestellten Aufgaben erledigst, während Ackerbau, Angeln, Essen und Trinken Vitalität und Ausdauer hoch genug halten, um den nächsten Kampf zu überleben. Es ist kurz, zielorientiert und läuft flüssig auf bescheidener Hardware."
+      ],
+      "stats": [
+        {
+          "label": "Entwickler",
+          "value": "Thomas Chia"
+        },
+        {
+          "label": "Publisher",
+          "value": "TumbleweedGameDesign"
+        },
+        {
+          "label": "Plattform",
+          "value": "PC (Steam)"
+        },
+        {
+          "label": "Veröffentlichung",
+          "value": "1. September 2020"
+        },
+        {
+          "label": "Preis",
+          "value": "Kostenlos"
+        },
+        {
+          "label": "Premium-Paket",
+          "value": "$1.99"
+        },
+        {
+          "label": "Kampf",
+          "value": "Rundenbasiert"
+        },
+        {
+          "label": "Setting",
+          "value": "Mittelalterliche Insel"
+        }
+      ],
+      "cta": "Alle Guides erkunden"
+    },
+    "explore": {
+      "title": "Erkunde das The Forgotten Island V1 0 Wiki",
+      "description": "Alles, was die Insel von dir verlangt: Survival in der ersten Stunde, der komplette Walkthrough, Talent-Builds, rundenbasierter Kampf, Einkommen durch Ackerbau und Angeln, Ausrüstung, Patch-Historie und Gameplay-Videos.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Anfängerguide für The Forgotten Island V1 0",
+          "description": "Ein anfängerfreundlicher Guide zu grundlegender Steuerung, Survival-Prioritäten, Erkundungstipps und den ersten Schritten nach der Ankunft auf der Insel. Er hilft neuen Spielern, Bewegung, Ressourcenverwaltung, NPC-Interaktionen und frühen Fortschritt zu verstehen.",
+          "href": "/guide/the-forgotten-island-v1-0-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Passe zuerst deine Einstellungen an und lerne dann die zwei wichtigsten Eingaben: Halte E neben Brunnen, Essen und Betten und halte F neben einem NPC, um ein Duell zu starten."
+            },
+            {
+              "label": "2",
+              "detail": "Trinke Wasser und iss, bis Vitalität und Ausdauer voll sind, bevor du dich vom Startdorf entfernst."
+            },
+            {
+              "label": "3",
+              "detail": "Erkunde das Startgebiet vollständig und lies jede Notiz und Dialogzeile, denn Ziele können sich ohne Hinweis aktualisieren."
+            },
+            {
+              "label": "4",
+              "detail": "Folge dem Santa-Missions-Walkthrough des Entwicklers im Steam-Community-Hub, wenn du auf den ersten echten Schwierigkeitssprung stößt."
+            },
+            {
+              "label": "5",
+              "detail": "Speichere vor einer langen Expedition manuell in einem separaten Slot, damit ein schlechter Kampf dich nie eine Stunde kostet."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Walkthrough für The Forgotten Island V1 0",
+          "description": "Ein kompletter Walkthrough-Bereich zu Missionen, Erkundungsrouten, wichtigen Zielen und Fortschritts-Checkpoints. Dieses Modul kann offizielle Walkthrough-Videos und Gameplay-Lösungen in durchsuchbare Guides ordnen.",
+          "href": "/guide/the-forgotten-island-v1-0-full-walkthrough",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Überlebe die erste Stunde, indem du Wasser und Essen bevorratest, und kämpfe nur mit voller Ausdauerleiste."
+            },
+            {
+              "label": "2",
+              "detail": "Lerne den Kampfkreislauf: Leichte und schwere Angriffe kosten Ausdauer, Verteidigen ist kostenlos und Ausruhen stellt Ausdauer wieder her, lässt dich aber offen."
+            },
+            {
+              "label": "3",
+              "detail": "Investiere Talentpunkte in ein einziges Hauptattribut, damit dein Charakter skaliert, statt auf jeder Stufe zu stagnieren."
+            },
+            {
+              "label": "4",
+              "detail": "Finanziere den Run über Ackerbau, Angeln und Händlerhandel, bevor du in härtere Kartenstufen vorstößt."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Talent-Build-Guide für The Forgotten Island V1 0",
+          "description": "Ein Guide zum Talentsystem, der die Attribute Stärke, Beweglichkeit und Intelligenz erklärt und zeigt, wie sich verschiedene Werteentscheidungen auf die Kampfleistung auswirken. Spieler können empfohlene Builds für Erkundung und Kampf vergleichen.",
+          "href": "/guide/the-forgotten-island-v1-0-tips",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "STR",
+              "detail": "1 Punkt = +120 Vitalität, +50 Ausdauer: der sicherste erste Build für neue Spieler"
+            },
+            {
+              "label": "AGI",
+              "detail": "1 Punkt = +5 Angriff, +2 Rüstung: tauscht Robustheit gegen schnellere Kills"
+            },
+            {
+              "label": "INT",
+              "detail": "1 Punkt = +20 Krit, +20 Ausweichen, +40 Glück: Skalierung mit hohem Risiko und hoher Belohnung"
+            },
+            {
+              "label": "PLAN",
+              "detail": "Lege dich in der ersten Stunde auf ein Hauptattribut fest und kaufe Ausrüstung, die dazu passt"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Kampf-Guide für The Forgotten Island V1 0",
+          "description": "Eine Kampfreferenz zu leichten Angriffen, schweren Angriffen, Verteidigung, Ausdauermanagement und Gegnerbegegnungen. Sie hilft Spielern, das Kampfsystem zu lernen und ihre Überlebenseffizienz zu verbessern.",
+          "href": "/mechanics/the-forgotten-island-v1-0-survival",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Leicht",
+              "detail": "Leichte Angriffe zehren an der gegnerischen Vitalität bei geringen Ausdauerkosten, was einen langen Kampf zu deinen Gunsten streckt"
+            },
+            {
+              "label": "Schwer",
+              "detail": "Schwere Angriffe treffen härter, kosten aber mehr Ausdauer – spare sie für den Todesstoß auf"
+            },
+            {
+              "label": "Verteidigen",
+              "detail": "Verteidigen blockt den eingehenden Angriff und kostet überhaupt keine Ausdauer"
+            },
+            {
+              "label": "Ausruhen",
+              "detail": "Ausruhen stellt Ausdauer wieder her, aber du kannst dich während der Erholung nicht verteidigen"
+            },
+            {
+              "label": "Ausdauer",
+              "detail": "Angriffe kosten Ausdauer und ein Treffer des Gegners stoppt deine Erholung, also duelliere nie mit leerer Leiste"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Ackerbau- und Angel-Guide für The Forgotten Island V1 0",
+          "description": "Ein Ressourcen-Guide zu Ackerbau, Angeln, Essen, Trinken und anderen Aktivitäten auf der Insel. Er erklärt, wie Spieler Nicht-Kampf-Systeme nutzen können, um Erkundung und Fortschritt zu unterstützen.",
+          "href": "/mechanics/the-forgotten-island-v1-0-resources",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Wasser",
+              "detail": "Frisches Wasser füllt die Hydration kostenlos auf, und die Hydration begrenzt, wie weit du erkunden kannst"
+            },
+            {
+              "label": "Essen",
+              "detail": "Sammeln, Ernten und gekochte Mahlzeiten stellen die Ausdauer wieder her, die der Kampf verbraucht"
+            },
+            {
+              "label": "Angeln",
+              "detail": "Angelplätze sind risikoarmes Einkommen und decken zugleich deinen Essensvorrat zwischen Quests"
+            },
+            {
+              "label": "Ackerbau",
+              "detail": "Ein durchgehend bewirtschaftetes Feld ist das günstigste stetige Einkommen der Insel"
+            },
+            {
+              "label": "Verkaufen",
+              "detail": "Händler verwandeln überschüssige Ernten und Fisch in die Münzen, die deine Upgrades finanzieren"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Item- und Ausrüstungs-Guide für The Forgotten Island V1 0",
+          "description": "Eine durchsuchbare Ausrüstungsdatenbank zu Waffen, Rüstung, Händlern und upgradebezogenen Informationen. Dieser Bereich hilft Spielern zu verstehen, wie sie im Fortschritt stärkere Ausrüstung erhalten.",
+          "href": "/items/the-forgotten-island-v1-0-weapons",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Eine zuverlässige Nahkampfwaffe garantiert, dass du in der ersten Stunde nie wehrlos bist"
+            },
+            {
+              "label": "A",
+              "detail": "Zugang zu Reparaturen und Ersatzteile verhindern, dass dein einziges gutes Werkzeug bricht"
+            },
+            {
+              "label": "B",
+              "detail": "Eine Fernkampfwaffe plus Munition löst entfernte Bedrohungen und offenes Gelände"
+            },
+            {
+              "label": "C",
+              "detail": "Situative Werkzeuge, die sich erst lohnen, wenn deine Basisausrüstung stabil ist"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Updates und Patch-Notes für The Forgotten Island V1 0",
+          "description": "Ein Versionsverlauf, der Gameplay-Updates, Balance-Änderungen, Bugfixes und nach dem Release hinzugefügte Funktionen verfolgt. Er bietet Spielern eine Zeitleiste der Änderungen aus offiziellen Ankündigungen.",
+          "href": "/community/the-forgotten-island-v1-0-release-date",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "v1.5",
+              "detail": "Der Steam-Eintrag nennt weiterhin v1.0, doch die Notizen des Entwicklers geben an, dass die Inhalte auf Version 1.5 aktualisiert wurden"
+            },
+            {
+              "label": "Fixes",
+              "detail": "Die Patch-Historie verfolgt Bugfixes, die über die offiziellen Steam-News und Community-Threads veröffentlicht werden"
+            },
+            {
+              "label": "Balance",
+              "detail": "Kampf- und Survival-Anpassungen kommen über dieselben Ankündigungs-Threads wie neue Inhalte"
+            },
+            {
+              "label": "News",
+              "detail": "Prüfe den Steam-News-Feed, um zu bestätigen, welche Version du tatsächlich spielst"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Gameplay-Videos zu The Forgotten Island V1 0",
+          "description": "Eine Videosammlung mit offiziellen Walkthroughs und Gameplay-Demonstrationen. Sie hilft Nutzern, Mechaniken schnell zu lernen und verschiedene Wege zum Abschluss der Inselziele zu entdecken.",
+          "href": "/community/the-forgotten-island-v1-0-steam",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Steam",
+              "detail": "Die Steam-Shopseite hostet den offiziellen Trailer, Screenshots und Shop-Medien"
+            },
+            {
+              "label": "Threads",
+              "detail": "Die Walkthrough-Threads des Entwicklers im Community-Hub lesen sich wie Missionsvideos in Textform"
+            },
+            {
+              "label": "Replays",
+              "detail": "Sieh dir einen kompletten Run an, bevor du die Santa-Mission versuchst, um die Zielreihenfolge in Aktion zu sehen"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "description": "Schnelle Antworten auf die häufigsten Fragen zu The Forgotten Island V1 0.",
+      "items": [
+        {
+          "question": "Was ist The Forgotten Island V1 0?",
+          "answer": "The Forgotten Island V1 0 ist ein kostenloses Open-World-RPG auf Steam vom Entwickler Thomas Chia und Publisher TumbleweedGameDesign. Du öffnest eine alte Schriftrolle, erwachst auf einer mittelalterlichen Low-Poly-Insel und arbeitest dich durch Aufgaben, Duelle und Händlerhandel, bis du einen Weg zurück in die reale Welt findest."
+        },
+        {
+          "question": "Wie überlebt man die erste Stunde in The Forgotten Island V1 0?",
+          "answer": "Trinke Wasser und iss, bis Vitalität und Ausdauer voll sind, lerne, dass Halten von E Brunnen, Essen und Betten benutzt, und beginne nie ein Duell mit leerer Ausdauerleiste. Das Spiel gibt dir sehr wenig, also behandle jeden Ausflug aus dem Dorf als kostenpflichtige Expedition."
+        },
+        {
+          "question": "Was bewirken Talentpunkte in The Forgotten Island V1 0?",
+          "answer": "Jeder Talentpunkt gibt feste Boni: 1 Stärke gibt +120 Vitalität und +50 Ausdauer, 1 Beweglichkeit gibt +5 Angriff und +2 Rüstung, und 1 Intelligenz gibt +20 Krit, +20 Ausweichen und +40 Glück. Lege dich früh auf ein Hauptattribut fest, damit dein Build wirklich skaliert."
+        },
+        {
+          "question": "Wie verdient man Geld in The Forgotten Island V1 0?",
+          "answer": "Ackerbau, Angeln und Händlerhandel sind der risikoarme Einkommenskreislauf. Halte ein Feld in Bewirtschaftung, angle, während deine Ernten reifen, und verkaufe Überschüsse an Händler – reinvestiere die Münzen dann in Nachhaltigkeits-Upgrades statt in reinen Schaden."
+        },
+        {
+          "question": "Wo ist die Santa-Mission in The Forgotten Island V1 0?",
+          "answer": "Die Santa-Mission ist das Herzstück des ersten Walkthrough-Threads des Entwicklers im Steam-Community-Hub, veröffentlicht unter dem Namen Thomas im September 2020. Sie gilt weithin als der erste echte Schwierigkeitssprung und als die am häufigsten übersehene Voraussetzung für das Finale."
+        },
+        {
+          "question": "Wie erreicht man das Ende in The Forgotten Island V1 0?",
+          "answer": "Das Ende in The Forgotten Island V1 0 ist keine wählbare Stufe. Es wird freigeschaltet, sobald das Spiel registriert, dass alle erforderlichen Story-Missionen und Ziele abgeschlossen sind. Räume also dein Missionslog auf, prüfe, ob jedes Ziel registriert wurde, und speichere in einem separaten Slot, bevor du dich dem Finale widmest."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Bereit, The Forgotten Island V1 0 zu meistern?",
+      "description": "Von deinen ersten Schritten auf der vergessenen Insel bis zu den Endkämpfen deckt dich unser Community-Wiki mit kostenlosen, aktuellen Guides ab.",
+      "primary": "Lies den Anfängerguide",
+      "secondary": "Auf Steam spielen"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guide und Walkthroughs zu The Forgotten Island V1 0",
+    "overviewDescription": "Erste Schritte für Anfänger, ein kompletter Walkthrough, Missionshilfe und praktische Tipps für deine ersten Stunden in The Forgotten Island V1 0."
+  },
+  "mechanics": {
+    "overviewTitle": "Mechaniken und Survival in The Forgotten Island V1 0",
+    "overviewDescription": "Survival-Werte, rundenbasierter Kampf, Crafting, Bauen, Quests und die Wirtschaft aus Ackerbau und Angeln erklärt für The Forgotten Island V1 0."
+  },
+  "controls": {
+    "overviewTitle": "Steuerung und Tastenbelegung in The Forgotten Island V1 0",
+    "overviewDescription": "Das PC-Steuerungsschema, Tastaturbelegungen und Einstellungstipps, die du brauchst, um The Forgotten Island V1 0 bequem zu spielen."
+  },
+  "items": {
+    "overviewTitle": "Items und Ausrüstung in The Forgotten Island V1 0",
+    "overviewDescription": "Waffen, Werkzeuge, Materialien und Inventarverwaltung in The Forgotten Island V1 0, inklusive wie du deine Ausrüstung verbesserst."
+  },
+  "maps": {
+    "overviewTitle": "Karten und Orte in The Forgotten Island V1 0",
+    "overviewDescription": "Inselkarten, wichtige Orte, versteckte Gebiete und Geheimnisse in The Forgotten Island V1 0."
+  },
+  "community": {
+    "overviewTitle": "Community und Release-Infos zu The Forgotten Island V1 0",
+    "overviewDescription": "Steam-News, Details zum Release-Datum, Reddit- und Discord-Communities und Patch-Talk zu The Forgotten Island V1 0."
+  },
+  "shared": {
+    "wikiNavigation": "Wiki-Navigation",
+    "activeCodes": "Aktive Codes",
+    "updated": "Aktualisiert",
+    "viewAllCodes": "Alle Codes ansehen",
+    "playOnRoblox": "Auf Roblox spielen",
+    "inThisSection": "In diesem Abschnitt",
+    "tableOfContents": "Inhaltsverzeichnis",
+    "nextSteps": "Nächste Schritte",
+    "needHelp": "Brauchst du Hilfe?",
+    "relatedReading": "Verwandte Lektüre",
+    "relatedGuides": "Verwandte Guides",
+    "readMore": "Mehr lesen",
+    "officialMedia": "Offizielle Medien",
+    "home": "Startseite",
+    "noGuidesAvailable": "Noch keine Guides verfügbar. Schau bald wieder vorbei!"
+  },
+  "footer": {
+    "aboutTitle": "The Forgotten Island V1 0 Wiki",
+    "about": "Das The Forgotten Island V1 0 Wiki ist ein unabhängiger, von Fans erstellter Guide-Hub zu Inselerkundung, Survival, Kampf, Talenten, Items, Karten und wichtigem Spielwissen für neue und erfahrene Spieler.",
+    "quickLinks": "Schnelllinks",
+    "guides": "Guides",
+    "legal": "Rechtliches",
+    "copyright": "2026 The Forgotten Island V1 0 Wiki. Nicht mit Thomas Chia, TumbleweedGameDesign oder Steam verbunden.",
+    "description": "Kostenloses Open-World-Survival-RPG auf Steam. Erkunde, kämpfe, level auf und finde den Weg nach Hause.",
+    "playGame": "Auf Steam spielen",
+    "officialDiscord": "Steam-Community-Hub",
+    "officialYoutube": "YouTube-Gameplay",
+    "vvBuilder": "Talent-Planer",
+    "beginnerGuide": "Anfängerguide",
+    "privacyPolicy": "Datenschutzerklärung",
+    "termsOfService": "Nutzungsbedingungen",
+    "walkthroughGuide": "Kompletter Walkthrough",
+    "mechanicsGuides": "Mechaniken & Survival",
+    "mapsGuides": "Karten & Gebiete"
+  }
+}

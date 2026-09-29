@@ -12,7 +12,10 @@
     "controls": "Controls",
     "items": "Items",
     "maps": "Maps",
-    "community": "Community"
+    "community": "Community",
+    "home": "Home",
+    "menu": "Menu",
+    "toggleTheme": "Toggle theme"
   },
   "home": {
     "meta": {
